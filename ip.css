@@ -1,0 +1,79 @@
+body {
+background-color : #787474;
+}
+h1 {
+font-family : cursive;
+text-align : center;
+}
+img {
+width : 40%;
+display : block;
+margin-left : auto;
+margin-right : auto;
+border : #555 dashed 5px;
+}
+.cy {
+width : 20%;
+border : #555 solid 5px;
+}
+p {
+font-family : cursive;
+color : white;
+font-size : 19px;
+text-align : center;
+}
+li {
+font-family : cursive;
+color : white;
+font-size : 19px;
+}
+a {
+text-decoration : none;
+display : inline-block;
+padding : 8px 16px;
+}
+a:hover {
+background-color : #ddd;
+color : black;
+}
+.previous {
+background-color : #f1f1f1;
+color : black;
+}
+.next {
+background-color : #04AA6D;
+color : white;
+}
+.round {
+border-radius : 50%;
+}
+.pr {
+margin-left : 10%;
+font-size : 500%;
+}
+.nr {
+margin-right : 90%;
+font-size : 500%;
+}
+.topnav {
+background-color : #333;
+}
+.topnav a {
+float : left;
+color : #f2f2f2;
+text-align : center;
+padding : 14px 16px;
+text-decoration : none;
+font-size : 17px;
+}
+.topnav a:hover {
+background-color : #ddd;
+color : black;
+}
+.topnav a.active {
+background-color : #04AA6D;
+color : white;
+}
+.topnav a {
+background-color : #333;
+}
