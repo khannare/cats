@@ -56,15 +56,15 @@ background-color : #04AA6D;
 color : white;
 }
 .cat1 {
-	width: 5%;
+	width: 7%;
 	position:absolute; 
 	bottom:0;
-	margin-left: 35%;
+	margin-left: 25%;
 }
 
 .cat2 {
-	width: 3%;
+	width: 7%;
 	position:absolute; 
 	bottom:0;
-	margin-left: 42%;
+	margin-left: 34%;
 }
